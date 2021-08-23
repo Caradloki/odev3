@@ -3,7 +3,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 Üçüncü ödev için repo.
 
-![Ödev-3](odev3.jpg)
+![Ödev-3](google.jpg)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
